@@ -1,0 +1,147 @@
+
+        /// <summary>
+        /// 设备绑定
+        /// </summary>
+        /// <param name="DeviceBindParams">摄像头设备Id</param>
+        /// <returns>绑定结果</returns>
+        public ResultData EquipmentAssociationModification(DeviceBindParam DeviceBindParams)
+        {
+            ResultData resultData = new ResultData() { state = 0 };
+            if (null == DeviceBindParams || string.IsNullOrEmpty(DeviceBindParams.SecurityCameraDeviceId))
+            {
+                resultData.errMsg = "设备绑定入参为空!!";
+                return resultData;
+            }
+            if (DeviceBindParams.DeviceBindParts == null || !DeviceBindParams.DeviceBindParts.Any())
+            {
+                resultData.errMsg = "需要绑定的设备信息为空!!";
+                return resultData;
+            }
+            try
+            {
+                var dao = GetIOT_IDao();
+                //验证摄像头是否存在且有效
+                var CameraDeviceInfo = dao.GetCameraDeviceFirst(DeviceBindParams.SecurityCameraDeviceId);
+                if (CameraDeviceInfo == null)
+                {
+                    resultData.errMsg = "未查找到安防摄像头信息,请重试或者检查摄像头信息是否正确!!!";
+                    return resultData;
+                }
+                //验证需要绑定的设备是否存在
+                for (int i = 1; i >= 0; i--)
+                {
+                    var handStr = HandDeviceList(DeviceBindParams.DeviceBindParts.Where(s => s.BindDeviceType == i).ToList(), i);
+                    if (!string.IsNullOrEmpty(handStr))
+                    {
+                        resultData.errMsg = handStr;
+                        return resultData;
+                    }
+                }
+                //检查绑定关系是否存在问题
+                var associationInfo = new List<CameraAssociatedDevice>();
+                var associationBindInfo = dao.GetCameraDeviceAssociatedFirstBySecurityCameraDeviceID(DeviceBindParams.SecurityCameraDeviceId);
+                if (associationBindInfo.Any())
+                    associationInfo.AddRange(associationBindInfo);
+                associationBindInfo =
+                    dao.GetCameraDeviceAssociatedFirstByBindDeviceId(
+                        DeviceBindParams.DeviceBindParts
+                        .Select(s => new GetCameraAssociationInfoFromDeviceData()
+                        {
+                            DeviceId = s.BindDeviceId,
+                            Type = s.BindDeviceType
+                        })?.ToList());
+                if (associationBindInfo.Any())
+                    associationInfo.AddRange(associationBindInfo);
+                var haveDeviceIdList = new List<string>();
+                var passDevice = new List<string>();
+                var deleteDevice = new List<ValueTuple<string, int?>>();
+                if (associationInfo != null && associationInfo.Any())
+                    haveDeviceIdList = DeviceBindParams.DeviceBindParts.Select(s => s.BindDeviceId).Intersect(associationInfo.Select(t => t.BindDeviceID))?.ToList();
+                
+                //数据分类 方便执行操作
+                foreach (var deviceId in haveDeviceIdList.Distinct())
+                {
+                    var dataCameraDevice = associationInfo.Where(s => s.BindDeviceID == deviceId).FirstOrDefault();
+                    if (DeviceBindParams.SecurityCameraDeviceId.Equals(dataCameraDevice?.SecurityCameraDeviceID))
+                    {
+                        passDevice.Add(deviceId);
+                        continue;
+                    }
+                    deleteDevice.Add((deviceId, dataCameraDevice?.Type));
+                }
+                var addDevice = new List<CameraAssociatedDevice>();
+                //操作数据库
+                using (IDaoTransaction transaction = GetDaoService().BeginTransaction())
+                {
+                    //修改删除项
+                    if (deleteDevice.Any())
+                    {
+                        //dao.DeleteDeviceAssociated(associationInfo.Where(s => deleteDevice.Any(t => t.Item1.Equals(s.BindDeviceID))).Select(s => new GetCameraAssociationInfoFromDeviceData() { DeviceId = s.ID }).ToList());
+                    }
+                    //进行数据的增加
+                    foreach (var addAssociation in DeviceBindParams.DeviceBindParts)
+                    {
+                        //已存在的跳过
+                        if (passDevice.Contains(addAssociation.BindDeviceId))
+                            continue;
+                        var addModel = new CameraAssociatedDevice();
+                        addModel.ID = CreateGuid();
+                        addModel.BindDeviceID = addAssociation.BindDeviceId;
+                        addModel.SecurityCameraDeviceID = DeviceBindParams.SecurityCameraDeviceId;
+                        addModel.CreateTime = DateTime.Now;
+                        addModel.Creator = SessionProvider.GetUserName();
+                        addModel.Type = addAssociation.BindDeviceType;
+                        addModel.LastModifier = addModel.Creator;
+                        addModel.LastModifyTime = addModel.CreateTime;
+                        addDevice.Add(addModel);
+                    }
+                    if (addDevice.Any())
+                    {
+                        dao.SaveDeviceAssociated(addDevice);
+                        transaction.Complete();
+                    }
+                }
+
+                #region 处理推送
+                var pushList = new List<PushBindDeviceToOssParam>();
+                if (addDevice.Any(s => s.Type == 0))
+                {
+                    pushList.Add(new PushBindDeviceToOssParam()
+                    {
+                        SecurityCameraDeviceID = DeviceBindParams.SecurityCameraDeviceId,
+                        BindDeviceStatus =
+                             addDevice.Where(s => s.Type == 0).Select(device => new BindStatus()
+                             {
+                                 BindDeviceId = device.BindDeviceID,
+                                 BindType = 1
+                             }).ToList()
+                    });
+                }
+                if (deleteDevice.Any(s => s.Item2 == 0))
+                {
+                    var deleteDeviceIdList = deleteDevice.Where(s => s.Item2 == 0).ToList().Select(s => s.Item1).ToList();
+                    var deviceList = DeviceBindParams.DeviceBindParts.Where(s => deleteDeviceIdList.Contains(s.BindDeviceId)).ToList();
+                    pushList.Add(new PushBindDeviceToOssParam()
+                    {
+                        SecurityCameraDeviceID = DeviceBindParams.SecurityCameraDeviceId,
+                        BindDeviceStatus = DeviceBindParams.DeviceBindParts
+                             .Where(s => s.BindDeviceType == 0).Select(q =>
+                                  new BindStatus()
+                                  {
+                                      BindDeviceId = q.BindDeviceId,
+                                      BindType = 0
+                                  }).ToList()
+                    });
+                }
+                if (pushList.Any())
+                    resultData = PushBindDeviceToOss(pushList);
+                #endregion
+
+                resultData.state = string.IsNullOrEmpty(resultData.errMsg) ? 1 : resultData.state;
+            }
+            catch (Exception ex)
+            {
+                HandleResult(resultData, ex);
+            }
+            return resultData;
+        }
