@@ -1,0 +1,502 @@
+--------- beginning of main
+07-20 07:36:15.476   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 227.000000 4.000000 227.000000 82.000000 id:15.000000 angle:85.000000 4.840000 91.000000 motion:0
+07-20 07:36:15.636   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 226.000000 5.000000 227.000000 82.000000 id:15.000000 angle:86.080002 3.890000 90.000000 motion:0
+07-20 07:36:15.757  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:15.796   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 225.000000 4.000000 226.000000 81.000000 id:15.000000 angle:84.680000 4.910000 92.000000 motion:0
+07-20 07:36:15.956   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 226.000000 5.000000 226.000000 81.000000 id:15.000000 angle:85.029999 4.310000 92.000000 motion:0
+07-20 07:36:16.116   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 227.000000 4.000000 227.000000 81.000000 id:15.000000 angle:85.849998 4.110000 90.000000 motion:0
+07-20 07:36:16.276   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 5.000000 228.000000 82.000000 id:15.000000 angle:86.160004 3.770000 89.000000 motion:0
+07-20 07:36:16.406  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:16.436   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 4.000000 228.000000 82.000000 id:15.000000 angle:84.910004 4.680000 88.000000 motion:0
+07-20 07:36:16.597   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 4.000000 227.000000 82.000000 id:15.000000 angle:84.349998 5.300000 88.000000 motion:0
+07-20 07:36:16.756   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 227.000000 4.000000 227.000000 82.000000 id:15.000000 angle:84.790001 5.180000 90.000000 motion:0
+07-20 07:36:16.916   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 227.000000 4.000000 228.000000 82.000000 id:15.000000 angle:86.400002 3.580000 90.000000 motion:0
+07-20 07:36:17.058  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:17.076   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 227.000000 5.000000 227.000000 82.000000 id:15.000000 angle:85.459999 4.410000 91.000000 motion:0
+07-20 07:36:17.236   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 227.000000 5.000000 227.000000 82.000000 id:15.000000 angle:85.620003 4.290000 90.000000 motion:0
+07-20 07:36:17.396   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 229.000000 5.000000 229.000000 82.000000 id:15.000000 angle:84.449997 5.450000 88.000000 motion:0
+--------- beginning of system
+07-20 07:36:17.469  1683  3936 E WindowManager: App trying to use insecure INPUT_FEATURE_NO_INPUT_CHANNEL flag. Ignoring
+07-20 07:36:17.556   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 231.000000 5.000000 231.000000 83.000000 id:15.000000 angle:84.540001 4.780000 87.000000 motion:0
+07-20 07:36:17.716   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 232.000000 5.000000 232.000000 83.000000 id:15.000000 angle:85.550003 4.410000 89.000000 motion:0
+07-20 07:36:17.876   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 237.000000 5.000000 237.000000 85.000000 id:15.000000 angle:79.779999 5.790000 81.000000 motion:0
+07-20 07:36:17.950  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:18.036   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 246.000000 5.000000 246.000000 88.000000 id:15.000000 angle:78.889999 8.130000 82.000000 motion:0
+07-20 07:36:18.196   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 250.000000 5.000000 248.000000 89.000000 id:15.000000 angle:66.370003 12.700000 70.000000 motion:0
+07-20 07:36:18.356   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 245.000000 5.000000 244.000000 88.000000 id:15.000000 angle:82.389999 5.340000 84.000000 motion:0
+07-20 07:36:18.516   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 239.000000 5.000000 239.000000 86.000000 id:15.000000 angle:81.239998 4.810000 82.000000 motion:0
+07-20 07:36:18.663  1683  2187 E WindowManager: App trying to use insecure INPUT_FEATURE_NO_INPUT_CHANNEL flag. Ignoring
+07-20 07:36:18.676   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 238.000000 5.000000 239.000000 85.000000 id:15.000000 angle:84.720001 4.430000 87.000000 motion:0
+07-20 07:36:18.713  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:18.836   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 238.000000 5.000000 237.000000 85.000000 id:15.000000 angle:84.269997 3.870000 85.000000 motion:0
+07-20 07:36:18.885  1683  2187 E WindowManager: App trying to use insecure INPUT_FEATURE_NO_INPUT_CHANNEL flag. Ignoring
+07-20 07:36:18.996   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 237.000000 5.000000 236.000000 85.000000 id:15.000000 angle:80.400002 4.810000 81.000000 motion:0
+07-20 07:36:19.156   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 232.000000 5.000000 232.000000 84.000000 id:15.000000 angle:84.410004 5.580000 90.000000 motion:0
+07-20 07:36:19.316   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 232.000000 4.000000 232.000000 83.000000 id:15.000000 angle:84.709999 4.670000 87.000000 motion:0
+07-20 07:36:19.357  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:19.476   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 235.000000 5.000000 235.000000 85.000000 id:15.000000 angle:81.779999 7.880000 87.000000 motion:0
+07-20 07:36:19.636   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 240.000000 5.000000 240.000000 86.000000 id:15.000000 angle:76.379997 13.410000 87.000000 motion:0
+07-20 07:36:19.779   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:19.780   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41326
+07-20 07:36:19.780   587   609 I libPowerHal: [PE] scn:256 hdl:41326 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:19.780   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+07-20 07:36:19.781   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:19.781   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41327
+07-20 07:36:19.781   587   609 I libPowerHal: [PE] scn:258 hdl:41327 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:19.784  1683  6016 E InputDispatcher: Window handle Window{59bdc4e u0 com.tencent.mm/com.tencent.mm.ui.transmit.SelectConversationUI} has no registered input channel
+07-20 07:36:19.790   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:19.790   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41328
+07-20 07:36:19.790   587   609 I libPowerHal: [PE] scn:259 hdl:41328 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:19.796  1683  3936 E InputDispatcher: Window handle Window{59bdc4e u0 com.tencent.mm/com.tencent.mm.ui.transmit.SelectConversationUI} has no registered input channel
+07-20 07:36:19.796   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 242.000000 5.000000 242.000000 86.000000 id:15.000000 angle:73.459999 15.570000 84.000000 motion:0
+07-20 07:36:19.815  1683  3936 E ActivityManager: Sending non-protected broadcast android.vivo.inputmethod.status from system 1683:system/1000 pkg android
+07-20 07:36:19.815  1683  3936 E ActivityManager: Sending non-protected broadcast android.vivo.inputmethod.status from system 1683:system/1000 pkg android
+07-20 07:36:19.821  1683  3936 E _V_InputMethodManagerService: mCurId=com.baidu.input_vivo/.ImeVivoService ,mCurMethodId=com.baidu.input_vivo/.ImeVivoService
+07-20 07:36:19.828   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:400, pid:625
+07-20 07:36:19.828   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:400 pid_exist:1 => new_hdl:41329
+07-20 07:36:19.828   587   609 I libPowerHal: [PE] scn:260 hdl:41329 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:19.830   587   609 I libPowerHal: [perfNotifyAppState] packName:com.tencent.mm !!!
+07-20 07:36:19.863   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:19.863   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41330
+07-20 07:36:19.864   587   609 I libPowerHal: [PE] scn:261 hdl:41330 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:19.864   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:19.864   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41331
+07-20 07:36:19.864   587   609 I libPowerHal: [PE] scn:262 hdl:41331 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:19.940   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:19.940 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:19.940   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:19.940 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:19.941   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:19.941 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:19.956   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 238.000000 5.000000 237.000000 85.000000 id:15.000000 angle:80.099998 9.480000 87.000000 motion:0
+07-20 07:36:19.968   625   625 E MTK-Module: getMtkOptCode, error no matching opcode = 0x40802000
+07-20 07:36:19.968   625   625 E MTK-Module: getMtkOptCode, error no matching opcode = 0x40802100
+07-20 07:36:19.968   625   625 I mtkpower_client: [perf_lock_acq] hdl:0, dur:1000, num:4
+07-20 07:36:19.969   587   609 E powerd  : _Powerd_handleIPC lock_acq, hdl:0, duration:1000, size:4
+07-20 07:36:19.969   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_ACQ: hdl:0, duration:1000
+07-20 07:36:19.969   587   609 E libPowerHal: cmdSetting - scmd is NULL
+07-20 07:36:19.969   587   609 E libPowerHal: cmdSetting - scmd is NULL
+07-20 07:36:19.969   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:1000 pid_exist:1 => new_hdl:41332
+07-20 07:36:19.969   587   609 I libPowerHal: [PE] scn:263 hdl:41332 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:19.969   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_ACQ: return hdl:41332
+07-20 07:36:19.969   587   609 E powerd  : _Powerd_handleIPC lock_acq, hdl:41332
+07-20 07:36:19.970   625   625 I mtkpower_client: ret_hdl:41332
+07-20 07:36:19.984   625   625 I mtkpower_client: perf_lock_rel, hdl:41330, tid:625
+07-20 07:36:19.985   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41330
+07-20 07:36:19.985   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41330
+07-20 07:36:19.985   587   609 I libPowerHal: perfLockRel handle:41330
+07-20 07:36:19.985   587   609 I libPowerHal: [PD] scn:261 hdl:41330 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.008   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:20.008   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41333
+07-20 07:36:20.008   587   609 I libPowerHal: [PE] scn:261 hdl:41333 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.010  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:20.012   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:20.012   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41334
+07-20 07:36:20.012   587   609 I libPowerHal: [PE] scn:264 hdl:41334 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.018   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:20.019   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41335
+07-20 07:36:20.019   587   609 I libPowerHal: [PE] scn:265 hdl:41335 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.026  1683  3180 E _V_InputMethodManagerService: mCurId=com.baidu.input_vivo/.ImeVivoService ,mCurMethodId=com.baidu.input_vivo/.ImeVivoService
+07-20 07:36:20.029   625   625 I mtkpower_client: perf_lock_rel, hdl:41331, tid:625
+07-20 07:36:20.029   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41331
+07-20 07:36:20.029   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41331
+07-20 07:36:20.029   587   609 I libPowerHal: perfLockRel handle:41331
+07-20 07:36:20.029   587   609 I libPowerHal: [PD] scn:262 hdl:41331 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.084   625   625 I mtkpower_client: perf_lock_rel, hdl:41326, tid:625
+07-20 07:36:20.084   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41326
+07-20 07:36:20.084   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41326
+07-20 07:36:20.084   587   609 I libPowerHal: perfLockRel handle:41326
+07-20 07:36:20.084   587   609 I libPowerHal: [PD] scn:256 hdl:41326 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.085   625   625 I mtkpower_client: perf_lock_rel, hdl:41327, tid:625
+07-20 07:36:20.085   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41327
+07-20 07:36:20.085   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41327
+07-20 07:36:20.085   587   609 I libPowerHal: perfLockRel handle:41327
+07-20 07:36:20.085   587   609 I libPowerHal: [PD] scn:258 hdl:41327 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.095   625   625 I mtkpower_client: perf_lock_rel, hdl:41328, tid:625
+07-20 07:36:20.097   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41328
+07-20 07:36:20.097   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41328
+07-20 07:36:20.097   587   609 I libPowerHal: perfLockRel handle:41328
+07-20 07:36:20.097   587   609 I libPowerHal: [PD] scn:259 hdl:41328 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.116   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 236.000000 5.000000 236.000000 85.000000 id:15.000000 angle:77.349998 12.620000 89.000000 motion:0
+07-20 07:36:20.127   639   697 E SurfaceFlinger: Permission Denial: SurfaceFlinger did not recognize request code: 40002
+07-20 07:36:20.194 29404  3997 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:20.194 29404  3997 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:20.200 29404  3998 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:20.214  7599  4001 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:20.214  7599  4001 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:20.215  7599  4002 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:20.219  7599  4002 I chatty  : uid=10209 com.tencent.mm:push identical 2 lines
+07-20 07:36:20.220  7599  4002 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:20.221  7599  4001 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:20.222  7599  4001 I chatty  : uid=10209 com.tencent.mm:push identical 1 line
+07-20 07:36:20.223  7599  4001 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:20.228   587   609 I libPowerHal: perfLockRel handle:41329
+07-20 07:36:20.228   587   609 I libPowerHal: [PD] scn:260 hdl:41329 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.229   625   625 I mtkpower_client: perf_lock_rel, hdl:41334, tid:625
+07-20 07:36:20.229   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41334
+07-20 07:36:20.229   625   625 I mtkpower_client: perf_lock_rel, hdl:41333, tid:625
+07-20 07:36:20.229   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41334
+07-20 07:36:20.229   587   609 I libPowerHal: perfLockRel handle:41334
+07-20 07:36:20.229   587   609 I libPowerHal: [PD] scn:264 hdl:41334 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.230   625   625 I mtkpower_client: perf_lock_rel, hdl:41335, tid:625
+07-20 07:36:20.230   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41333
+07-20 07:36:20.230   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41333
+07-20 07:36:20.230   587   609 I libPowerHal: perfLockRel handle:41333
+07-20 07:36:20.230   587   609 I libPowerHal: [PD] scn:261 hdl:41333 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.230   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41335
+07-20 07:36:20.230   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41335
+07-20 07:36:20.230   587   609 I libPowerHal: perfLockRel handle:41335
+07-20 07:36:20.230   587   609 I libPowerHal: [PD] scn:265 hdl:41335 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.230   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: -1 -1 -1 -1
+07-20 07:36:20.276   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 235.000000 5.000000 235.000000 85.000000 id:15.000000 angle:78.750000 11.220000 89.000000 motion:0
+07-20 07:36:20.419   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:20.419 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:20.419   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:20.419 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:20.436   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 234.000000 5.000000 234.000000 83.000000 id:15.000000 angle:78.510002 11.470000 89.000000 motion:0
+07-20 07:36:20.512  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:20.596   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 233.000000 5.000000 233.000000 84.000000 id:15.000000 angle:78.849998 11.120000 90.000000 motion:0
+07-20 07:36:20.619   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:20.619 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:20.756   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 231.000000 5.000000 232.000000 83.000000 id:15.000000 angle:80.220001 9.710000 91.000000 motion:0
+07-20 07:36:20.916   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 225.000000 4.000000 225.000000 81.000000 id:15.000000 angle:81.690002 8.180000 91.000000 motion:0
+07-20 07:36:20.970   587   609 I libPowerHal: perfLockRel handle:41332
+07-20 07:36:20.970   587   609 I libPowerHal: [PD] scn:263 hdl:41332 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:20.978   625   625 I mtkpower_client: perf_lock_rel, hdl:41332, tid:625
+07-20 07:36:20.979   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41332
+07-20 07:36:20.979   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41332
+07-20 07:36:20.979   587   609 I libPowerHal: perfLockRel handle:41332
+07-20 07:36:21.076   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 221.000000 4.000000 221.000000 79.000000 id:15.000000 angle:81.760002 5.570000 96.000000 motion:0
+07-20 07:36:21.093  7599  4029 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:21.094  7599  4029 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:21.096  7599  4034 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:21.102  7599  4034 I chatty  : uid=10209 com.tencent.mm:push identical 2 lines
+07-20 07:36:21.103  7599  4034 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:21.106  7599  4029 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:21.107  7599  4029 I chatty  : uid=10209 com.tencent.mm:push identical 1 line
+07-20 07:36:21.110  7599  4029 E NetdClient: querySockNetidForUid nid:0, uid:10209, command.cmdId:11, id:0
+07-20 07:36:21.236   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 221.000000 4.000000 221.000000 80.000000 id:15.000000 angle:82.139999 5.460000 95.000000 motion:0
+07-20 07:36:21.264   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:157, duration:80, pid:625
+07-20 07:36:21.265   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:80 pid_exist:1 => new_hdl:41336
+07-20 07:36:21.265   587   609 I libPowerHal: [PE] scn:256 hdl:41336 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:21.265   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: 1100000 -1 1000000 -1
+07-20 07:36:21.266   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:173, duration:-1, pid:625
+07-20 07:36:21.266   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:-1 pid_exist:1 => new_hdl:41337
+07-20 07:36:21.266   587   609 I libPowerHal: [PE] scn:258 hdl:41337 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:21.276  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:21.341   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:155, duration:1485, pid:625
+07-20 07:36:21.341   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:1485 pid_exist:1 => new_hdl:41338
+07-20 07:36:21.341   587   609 I libPowerHal: [PE] scn:259 hdl:41338 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:21.341   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: 1625000 -1 1622000 -1
+07-20 07:36:21.342   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:157, duration:80, pid:625
+07-20 07:36:21.342   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:80 pid_exist:1 => new_hdl:41339
+07-20 07:36:21.342   587   609 I libPowerHal: [PE] scn:260 hdl:41339 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:21.343   625   625 I mtkpower_client: perf_lock_rel, hdl:41337, tid:625
+07-20 07:36:21.343   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41337
+07-20 07:36:21.343   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41337
+07-20 07:36:21.343   587   609 I libPowerHal: perfLockRel handle:41337
+07-20 07:36:21.343   587   609 I libPowerHal: [PD] scn:258 hdl:41337 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:21.345   587   609 I libPowerHal: perfLockRel handle:41336
+07-20 07:36:21.345   587   609 I libPowerHal: [PD] scn:256 hdl:41336 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:21.396   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 226.000000 4.000000 226.000000 81.000000 id:15.000000 angle:77.540001 12.060000 93.000000 motion:0
+07-20 07:36:21.397   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:21.398 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:21.398   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:21.398 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:21.423   587   609 I libPowerHal: perfLockRel handle:41339
+07-20 07:36:21.423   587   609 I libPowerHal: [PD] scn:260 hdl:41339 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:21.468   639   696 E SurfaceFlinger: Permission Denial: SurfaceFlinger did not recognize request code: 40001
+07-20 07:36:21.556   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 227.000000 4.000000 227.000000 81.000000 id:15.000000 angle:84.089996 5.450000 87.000000 motion:0
+07-20 07:36:21.698   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:21.699 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:21.699   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:21.699 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:21.716   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 226.000000 5.000000 226.000000 81.000000 id:15.000000 angle:81.320000 8.480000 91.000000 motion:0
+07-20 07:36:21.725   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:400, pid:625
+07-20 07:36:21.725   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:400 pid_exist:1 => new_hdl:41340
+07-20 07:36:21.725   587   609 I libPowerHal: [PE] scn:256 hdl:41340 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:21.725   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+07-20 07:36:21.726   587   609 I libPowerHal: [perfNotifyAppState] packName:com.tencent.mm !!!
+07-20 07:36:21.772  1683  3936 E WindowManager: App trying to use insecure INPUT_FEATURE_NO_INPUT_CHANNEL flag. Ignoring
+07-20 07:36:21.774 29404 29404 E MicroMsg.KeyBordUtil: [, , 29404]:getValidPanelHeight(): minPanelHeight= 621, isOpenIm=true
+07-20 07:36:21.775 29404 29404 E MicroMsg.KeyBordUtil: [, , 29404]:getValidPanelHeight(): minPanelHeight= 621, isOpenIm=true
+07-20 07:36:21.787  1683  6029 E _V_InputMethodManagerService: mCurId=com.baidu.input_vivo/.ImeVivoService ,mCurMethodId=com.baidu.input_vivo/.ImeVivoService
+07-20 07:36:21.832 29404 29404 E libc    : Access denied finding property "ro.vendor.scroll.preobtain.enable"
+07-20 07:36:21.836 29404 29404 E libc    : Access denied finding property "ro.vendor.scroll.preobtain.enable"
+07-20 07:36:21.872   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:21.872 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:21.876   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 225.000000 5.000000 224.000000 81.000000 id:15.000000 angle:81.300003 5.490000 96.000000 motion:0
+07-20 07:36:21.903 29404 29404 E MicroMsg.NewTips.NewTipsHelper: [, , 29404]:isShowNewTips() getTag(R.id.new_tips_tag_show_type_new) [java.lang.NullPointerException: Attempt to invoke virtual method 'byte java.lang.Byte.byteValue()' on a null object reference]
+07-20 07:36:21.903 29404 29404 I chatty  : uid=10209(com.tencent.mm) identical 1 line
+07-20 07:36:21.903 29404 29404 E MicroMsg.NewTips.NewTipsHelper: [, , 29404]:isShowNewTips() getTag(R.id.new_tips_tag_show_type_new) [java.lang.NullPointerException: Attempt to invoke virtual method 'byte java.lang.Byte.byteValue()' on a null object reference]
+07-20 07:36:21.930  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:22.036   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 217.000000 4.000000 217.000000 78.000000 id:15.000000 angle:82.660004 4.790000 95.000000 motion:0
+07-20 07:36:22.126   587   609 I libPowerHal: perfLockRel handle:41340
+07-20 07:36:22.126   587   609 I libPowerHal: [PD] scn:256 hdl:41340 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:22.126   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: 1625000 -1 1622000 -1
+07-20 07:36:22.196   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 215.000000 4.000000 215.000000 77.000000 id:15.000000 angle:80.589996 3.530000 98.000000 motion:0
+07-20 07:36:22.280   625   625 I mtkpower_client: perf_lock_rel, hdl:41338, tid:625
+07-20 07:36:22.281   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41338
+07-20 07:36:22.281   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41338
+07-20 07:36:22.281   587   609 I libPowerHal: perfLockRel handle:41338
+07-20 07:36:22.281   587   609 I libPowerHal: [PD] scn:259 hdl:41338 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:22.281   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: -1 -1 -1 -1
+07-20 07:36:22.282  1683  6018 E VibratorService: vibrator jni exists
+07-20 07:36:22.356   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 212.000000 4.000000 213.000000 77.000000 id:15.000000 angle:79.139999 4.800000 99.000000 motion:0
+07-20 07:36:22.472   625   625 E MTK-Module: getMtkOptCode, error no matching opcode = 0x40802000
+07-20 07:36:22.472   625   625 E MTK-Module: getMtkOptCode, error no matching opcode = 0x40802100
+07-20 07:36:22.472   625   625 I mtkpower_client: [perf_lock_acq] hdl:0, dur:800, num:4
+07-20 07:36:22.473   587   609 E powerd  : _Powerd_handleIPC lock_acq, hdl:0, duration:800, size:4
+07-20 07:36:22.473   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_ACQ: hdl:0, duration:800
+07-20 07:36:22.473   587   609 E libPowerHal: cmdSetting - scmd is NULL
+07-20 07:36:22.473   587   609 E libPowerHal: cmdSetting - scmd is NULL
+07-20 07:36:22.473   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:800 pid_exist:1 => new_hdl:41341
+07-20 07:36:22.473   587   609 I libPowerHal: [PE] scn:256 hdl:41341 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:22.473   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_ACQ: return hdl:41341
+07-20 07:36:22.473   587   609 E powerd  : _Powerd_handleIPC lock_acq, hdl:41341
+07-20 07:36:22.473   625   625 I mtkpower_client: ret_hdl:41341
+07-20 07:36:22.516   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 212.000000 4.000000 213.000000 77.000000 id:15.000000 angle:78.820000 5.320000 99.000000 motion:0
+07-20 07:36:22.553  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:22.676   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 212.000000 4.000000 213.000000 77.000000 id:15.000000 angle:79.489998 4.880000 99.000000 motion:0
+07-20 07:36:22.764   625   625 I mtkpower_client: perf_lock_rel, hdl:41341, tid:625
+07-20 07:36:22.765   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41341
+07-20 07:36:22.766   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41341
+07-20 07:36:22.766   587   609 I libPowerHal: perfLockRel handle:41341
+07-20 07:36:22.766   587   609 I libPowerHal: [PD] scn:256 hdl:41341 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:22.791 29404 29404 E MicroMsg.NewTips.NewTipsHelper: [, , 29404]:isShowNewTips() getTag(R.id.new_tips_tag_show_type_new) [java.lang.NullPointerException: Attempt to invoke virtual method 'byte java.lang.Byte.byteValue()' on a null object reference]
+07-20 07:36:22.836   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 213.000000 4.000000 214.000000 77.000000 id:15.000000 angle:79.169998 5.080000 99.000000 motion:0
+07-20 07:36:22.996   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 214.000000 4.000000 215.000000 77.000000 id:15.000000 angle:79.949997 4.710000 98.000000 motion:0
+07-20 07:36:23.156   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 217.000000 5.000000 218.000000 78.000000 id:15.000000 angle:79.870003 5.040000 98.000000 motion:0
+07-20 07:36:23.200  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:23.316   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 218.000000 4.000000 219.000000 78.000000 id:15.000000 angle:79.959999 4.970000 98.000000 motion:0
+07-20 07:36:23.476   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 220.000000 4.000000 221.000000 79.000000 id:15.000000 angle:80.790001 6.270000 96.000000 motion:0
+07-20 07:36:23.636   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 220.000000 4.000000 221.000000 79.000000 id:15.000000 angle:81.019997 6.510000 96.000000 motion:0
+07-20 07:36:23.796   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 222.000000 4.000000 223.000000 80.000000 id:15.000000 angle:83.510002 5.400000 93.000000 motion:0
+07-20 07:36:23.838  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:23.956   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 223.000000 4.000000 223.000000 80.000000 id:15.000000 angle:83.849998 3.340000 95.000000 motion:0
+07-20 07:36:24.116   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 231.000000 5.000000 231.000000 82.000000 id:15.000000 angle:71.089996 18.540001 93.000000 motion:0
+07-20 07:36:24.155  3070  4215 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:24.200  1683  3180 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:24.202  1683  3180 I chatty  : uid=1000(system) Binder:1683_11 identical 2 lines
+07-20 07:36:24.202  1683  3180 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:24.209  3070  4227 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:24.215  3070  4215 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:24.220  3070  4227 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:24.227  3070  4227 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:24.241  1683  5189 E TaskPersister: File error accessing recents directory (directory doesn't exist?).
+07-20 07:36:24.276   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 239.000000 5.000000 238.000000 85.000000 id:15.000000 angle:66.570000 23.370001 88.000000 motion:0
+07-20 07:36:24.376   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:24.376 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:24.377   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:24.377 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:24.383 29404 29404 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+07-20 07:36:24.436   904   953 E _V_HfLooper: als_data lux_r_g_b_c:2.000000 251.000000 6.000000 250.000000 89.000000 id:15.000000 angle:63.410000 25.690001 83.000000 motion:0
+07-20 07:36:24.454   625   625 E MTK-Module: getMtkOptCode, error no matching opcode = 0x40802000
+07-20 07:36:24.455   625   625 E MTK-Module: getMtkOptCode, error no matching opcode = 0x40802100
+07-20 07:36:24.455   625   625 I mtkpower_client: [perf_lock_acq] hdl:0, dur:999, num:6
+07-20 07:36:24.456   587   609 E powerd  : _Powerd_handleIPC lock_acq, hdl:0, duration:999, size:6
+07-20 07:36:24.456   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_ACQ: hdl:0, duration:999
+07-20 07:36:24.456   587   609 E libPowerHal: cmdSetting - scmd is NULL
+07-20 07:36:24.456   587   609 E libPowerHal: cmdSetting - scmd is NULL
+07-20 07:36:24.456   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:999 pid_exist:1 => new_hdl:41342
+07-20 07:36:24.457   587   609 I libPowerHal: [PE] scn:256 hdl:41342 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:24.457   587   609 I libPowerHal: [PE] vperf@1.0-servi update cmd:1410000, param:1
+07-20 07:36:24.457   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_ACQ: return hdl:41342
+07-20 07:36:24.457   587   609 E powerd  : _Powerd_handleIPC lock_acq, hdl:41342
+07-20 07:36:24.458   625   625 I mtkpower_client: ret_hdl:41342
+07-20 07:36:24.484  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:24.531   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:24.531 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:24.533   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:24.533 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:24.533   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:24.534 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:24.572   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:24.572 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:24.596   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 239.000000 5.000000 238.000000 85.000000 id:15.000000 angle:70.730003 18.639999 94.000000 motion:0
+07-20 07:36:24.648   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:24.648 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:24.649   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:24.649 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:24.756   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 236.000000 5.000000 236.000000 84.000000 id:15.000000 angle:73.379997 16.610001 90.000000 motion:0
+07-20 07:36:24.814   445   445 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c209,c256,c512,c768 pid=29404 scontext=u:r:untrusted_app:s0:c209,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+07-20 07:36:24.814 29404 29404 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+07-20 07:36:24.875 29404 29404 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+07-20 07:36:24.900  1683  6018 E WindowManager: App trying to use insecure INPUT_FEATURE_NO_INPUT_CHANNEL flag. Ignoring
+07-20 07:36:24.906 29404 29404 E MicroMsg.KeyBordUtil: [, , 29404]:getValidPanelHeight(): minPanelHeight= 621, isOpenIm=true
+07-20 07:36:24.908 29404 29404 E MicroMsg.KeyBordUtil: [, , 29404]:getValidPanelHeight(): minPanelHeight= 621, isOpenIm=true
+07-20 07:36:24.916   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 233.000000 5.000000 233.000000 83.000000 id:15.000000 angle:76.860001 12.730000 93.000000 motion:0
+07-20 07:36:24.923   625   625 I mtkpower_client: perf_lock_rel, hdl:41342, tid:625
+07-20 07:36:24.924   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41342
+07-20 07:36:24.924   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41342
+07-20 07:36:24.924   587   609 I libPowerHal: perfLockRel handle:41342
+07-20 07:36:24.924   587   609 I libPowerHal: [PD] scn:256 hdl:41342 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:24.924   587   609 I libPowerHal: [PD] vperf@1.0-servi update cmd:1410000 param:0
+07-20 07:36:24.961 29404 29404 E libc    : Access denied finding property "ro.vendor.scroll.preobtain.enable"
+07-20 07:36:24.964 29404 29404 E libc    : Access denied finding property "ro.vendor.scroll.preobtain.enable"
+07-20 07:36:25.076   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 232.000000 5.000000 232.000000 83.000000 id:15.000000 angle:76.970001 13.010000 89.000000 motion:0
+07-20 07:36:25.156  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:25.237   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 232.000000 4.000000 232.000000 83.000000 id:15.000000 angle:76.720001 12.790000 93.000000 motion:0
+07-20 07:36:25.396   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 231.000000 5.000000 231.000000 83.000000 id:15.000000 angle:76.410004 13.240000 92.000000 motion:0
+07-20 07:36:25.556   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 230.000000 4.000000 230.000000 82.000000 id:15.000000 angle:76.180000 12.970000 94.000000 motion:0
+07-20 07:36:25.716   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 229.000000 4.000000 230.000000 82.000000 id:15.000000 angle:76.589996 12.770000 94.000000 motion:0
+07-20 07:36:25.783  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:25.876   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 229.000000 4.000000 228.000000 82.000000 id:15.000000 angle:76.540001 12.780000 94.000000 motion:0
+07-20 07:36:25.972  3651  3755 E _V_Updater/UpdateDownloadManager-ICDM-MULTI-com.bbk.updater-DownloadInfo: startDownloadIfReady error 系统升级 by 200 is downloading
+07-20 07:36:26.018 26033  4061 E _V_Updater/IOUtils: readFile Exception java.io.FileNotFoundException: /data/vivo-updater/com.bbk.updater/OTAPackage/PRIVACY_TERM/privacyTermsList.txt: open failed: ENOENT (No such file or directory)
+07-20 07:36:26.033 26033 32479 E _V_SecurityKey: com.bbk.updater: check collect data permisson: PERMISSION_DENIED
+07-20 07:36:26.036   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 4.000000 229.000000 82.000000 id:15.000000 angle:76.800003 12.480000 94.000000 motion:0
+07-20 07:36:26.052  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:26.074 26033 32479 E _V_SecurityKey: com.bbk.updater: check collect data permisson: PERMISSION_DENIED
+07-20 07:36:26.077  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:26.086  1683  6018 E WindowManager: App trying to use insecure INPUT_FEATURE_NO_INPUT_CHANNEL flag. Ignoring
+07-20 07:36:26.092   551  1407 E         : QUERY_RESOLV_NETID command.uid:10117, nid:0
+07-20 07:36:26.144   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:26.145   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41343
+07-20 07:36:26.145   587   609 I libPowerHal: [PE] scn:256 hdl:41343 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:26.145   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+07-20 07:36:26.145   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:26.145   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41344
+07-20 07:36:26.145   587   609 I libPowerHal: [PE] scn:258 hdl:41344 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:26.147   551  4065 E ResolverController: No valid NAT64 prefix (124, <unspecified>/0)
+07-20 07:36:26.149 26033 26076 E NetdClient: querySockNetidForUid nid:0, uid:10117, command.cmdId:11, id:0
+07-20 07:36:26.149   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:26.149   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41345
+07-20 07:36:26.149   587   609 I libPowerHal: [PE] scn:259 hdl:41345 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:26.196   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 4.000000 228.000000 82.000000 id:15.000000 angle:76.809998 12.470000 94.000000 motion:0
+07-20 07:36:26.342 26033 26076 E _V_SecurityKey: com.bbk.updater: check collect data permisson: PERMISSION_DENIED
+07-20 07:36:26.356   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 5.000000 228.000000 82.000000 id:15.000000 angle:76.580002 12.610000 94.000000 motion:0
+07-20 07:36:26.371   625   625 I mtkpower_client: perf_lock_rel, hdl:41344, tid:625
+07-20 07:36:26.371   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41344
+07-20 07:36:26.371   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41344
+07-20 07:36:26.371   587   609 I libPowerHal: perfLockRel handle:41344
+07-20 07:36:26.371   587   609 I libPowerHal: [PD] scn:258 hdl:41344 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:26.460   625   625 I mtkpower_client: perf_lock_rel, hdl:41345, tid:625
+07-20 07:36:26.460   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41345
+07-20 07:36:26.460   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41345
+07-20 07:36:26.460   587   609 I libPowerHal: perfLockRel handle:41345
+07-20 07:36:26.460   587   609 I libPowerHal: [PD] scn:259 hdl:41345 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:26.516   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 4.000000 228.000000 82.000000 id:15.000000 angle:76.639999 12.610000 94.000000 motion:0
+07-20 07:36:26.582   625   625 I mtkpower_client: perf_lock_rel, hdl:41343, tid:625
+07-20 07:36:26.583   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41343
+07-20 07:36:26.583   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41343
+07-20 07:36:26.583   587   609 I libPowerHal: perfLockRel handle:41343
+07-20 07:36:26.583   587   609 I libPowerHal: [PD] scn:256 hdl:41343 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:26.583   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: -1 -1 -1 -1
+07-20 07:36:26.676   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 4.000000 228.000000 82.000000 id:15.000000 angle:76.370003 13.050000 93.000000 motion:0
+07-20 07:36:26.836   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 4.000000 228.000000 82.000000 id:15.000000 angle:77.089996 12.380000 93.000000 motion:0
+07-20 07:36:26.996   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 4.000000 229.000000 82.000000 id:15.000000 angle:76.680000 12.560000 94.000000 motion:0
+07-20 07:36:27.156   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 5.000000 228.000000 82.000000 id:15.000000 angle:76.989998 12.290000 94.000000 motion:0
+07-20 07:36:27.316   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 228.000000 5.000000 228.000000 82.000000 id:15.000000 angle:76.779999 12.420000 94.000000 motion:0
+07-20 07:36:27.476   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 227.000000 4.000000 227.000000 82.000000 id:15.000000 angle:79.510002 9.960000 93.000000 motion:0
+07-20 07:36:27.636   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 226.000000 4.000000 226.000000 81.000000 id:15.000000 angle:86.129997 2.030000 93.000000 motion:0
+07-20 07:36:27.796   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 221.000000 4.000000 221.000000 80.000000 id:15.000000 angle:82.150002 4.740000 96.000000 motion:0
+07-20 07:36:27.956   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 220.000000 4.000000 221.000000 80.000000 id:15.000000 angle:83.430000 3.680000 95.000000 motion:0
+07-20 07:36:28.116   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.139999 3.410000 95.000000 motion:0
+07-20 07:36:28.276   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 218.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.089996 3.280000 96.000000 motion:0
+07-20 07:36:28.436   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 218.000000 4.000000 219.000000 79.000000 id:15.000000 angle:82.540001 3.570000 96.000000 motion:0
+07-20 07:36:28.596   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 218.000000 4.000000 218.000000 79.000000 id:15.000000 angle:83.070000 3.590000 95.000000 motion:0
+07-20 07:36:28.756   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 218.000000 4.000000 218.000000 78.000000 id:15.000000 angle:83.150002 3.330000 95.000000 motion:0
+07-20 07:36:28.916   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 218.000000 4.000000 219.000000 79.000000 id:15.000000 angle:82.629997 3.410000 96.000000 motion:0
+07-20 07:36:29.076   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 218.000000 4.000000 219.000000 79.000000 id:15.000000 angle:82.510002 3.420000 96.000000 motion:0
+07-20 07:36:29.234   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:29.234   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41346
+07-20 07:36:29.234   587   609 I libPowerHal: [PE] scn:256 hdl:41346 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.234   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+07-20 07:36:29.236 26033 32479 E _V_SecurityKey: com.bbk.updater: check collect data permisson: PERMISSION_DENIED
+07-20 07:36:29.236   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 217.000000 4.000000 218.000000 79.000000 id:15.000000 angle:83.389999 3.400000 95.000000 motion:0
+07-20 07:36:29.239   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:29.239   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41347
+07-20 07:36:29.239   587   609 I libPowerHal: [PE] scn:258 hdl:41347 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.242  1683 13103 E InputDispatcher: Window handle Window{5b76977 u0 com.bbk.updater} has no registered input channel
+07-20 07:36:29.327  1683  3935 E WindowManager: App trying to use insecure INPUT_FEATURE_NO_INPUT_CHANNEL flag. Ignoring
+07-20 07:36:29.366  5234  5398 E VivoPush.PushInterfaceManager: (5234)onMessageReport messageId is not valid
+07-20 07:36:29.375   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:29.375   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41348
+07-20 07:36:29.375   587   609 I libPowerHal: [PE] scn:259 hdl:41348 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.376   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:29.376   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41349
+07-20 07:36:29.376   587   609 I libPowerHal: [PE] scn:260 hdl:41349 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.380   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:29.380   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41350
+07-20 07:36:29.380   587   609 I libPowerHal: [PE] scn:261 hdl:41350 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.396   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 218.000000 4.000000 218.000000 78.000000 id:15.000000 angle:83.400002 3.660000 95.000000 motion:0
+07-20 07:36:29.508   625   625 I mtkpower_client: perf_lock_rel, hdl:41346, tid:625
+07-20 07:36:29.510   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41346
+07-20 07:36:29.510   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41346
+07-20 07:36:29.510   587   609 I libPowerHal: perfLockRel handle:41346
+07-20 07:36:29.511   587   609 I libPowerHal: [PD] scn:256 hdl:41346 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.542   625   625 I mtkpower_client: perf_lock_rel, hdl:41347, tid:625
+07-20 07:36:29.544   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41347
+07-20 07:36:29.544   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41347
+07-20 07:36:29.544   587   609 I libPowerHal: perfLockRel handle:41347
+07-20 07:36:29.544   587   609 I libPowerHal: [PD] scn:258 hdl:41347 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.556   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 79.000000 id:15.000000 angle:84.169998 3.980000 94.000000 motion:0
+07-20 07:36:29.686   625   625 I mtkpower_client: perf_lock_rel, hdl:41348, tid:625
+07-20 07:36:29.687   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41348
+07-20 07:36:29.687   625   625 I mtkpower_client: perf_lock_rel, hdl:41349, tid:625
+07-20 07:36:29.687   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41348
+07-20 07:36:29.687   587   609 I libPowerHal: perfLockRel handle:41348
+07-20 07:36:29.687   587   609 I libPowerHal: [PD] scn:259 hdl:41348 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.687   625   625 I mtkpower_client: perf_lock_rel, hdl:41350, tid:625
+07-20 07:36:29.687   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41349
+07-20 07:36:29.687   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41349
+07-20 07:36:29.688   587   609 I libPowerHal: perfLockRel handle:41349
+07-20 07:36:29.688   587   609 I libPowerHal: [PD] scn:260 hdl:41349 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.688   587   609 E powerd  : _Powerd_handleIPC lock_rel, hdl:41350
+07-20 07:36:29.688   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_PERF_LOCK_REL: hdl:41350
+07-20 07:36:29.688   587   609 I libPowerHal: perfLockRel handle:41350
+07-20 07:36:29.688   587   609 I libPowerHal: [PD] scn:261 hdl:41350 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:29.689   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: -1 -1 -1 -1
+07-20 07:36:29.716   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.169998 3.520000 95.000000 motion:0
+07-20 07:36:29.876   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.410004 3.690000 95.000000 motion:0
+07-20 07:36:30.036   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.250000 3.400000 95.000000 motion:0
+07-20 07:36:30.196   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 78.000000 id:15.000000 angle:83.309998 3.470000 95.000000 motion:0
+07-20 07:36:30.356   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.300003 3.490000 95.000000 motion:0
+07-20 07:36:30.516   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.370003 3.610000 95.000000 motion:0
+07-20 07:36:30.676   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.260002 3.510000 95.000000 motion:0
+07-20 07:36:30.815  1683  2146 E ActivityManager: Sending non-protected broadcast com.vivo.aiengine.intent.action.SMART_SCHEDULER from system uid 1000 pkg com.vivo.aiengine
+07-20 07:36:30.836   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.290001 3.540000 95.000000 motion:0
+07-20 07:36:30.997   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.510002 3.410000 95.000000 motion:0
+07-20 07:36:31.156   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 218.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.430000 3.280000 95.000000 motion:0
+07-20 07:36:31.316   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.349998 3.220000 95.000000 motion:0
+07-20 07:36:31.476   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.360001 3.280000 95.000000 motion:0
+07-20 07:36:31.636   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.419998 3.410000 95.000000 motion:0
+07-20 07:36:31.796   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.559998 3.420000 95.000000 motion:0
+07-20 07:36:31.956   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 219.000000 79.000000 id:15.000000 angle:83.470001 3.600000 95.000000 motion:0
+07-20 07:36:32.116   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.529999 3.570000 95.000000 motion:0
+07-20 07:36:32.276   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.080002 3.390000 96.000000 motion:0
+07-20 07:36:32.436   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.080002 3.420000 95.000000 motion:0
+07-20 07:36:32.596   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.150002 3.560000 95.000000 motion:0
+07-20 07:36:32.756   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 220.000000 4.000000 220.000000 80.000000 id:15.000000 angle:83.349998 3.460000 95.000000 motion:0
+07-20 07:36:32.916   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.349998 3.360000 95.000000 motion:0
+07-20 07:36:33.076   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.349998 3.230000 95.000000 motion:0
+07-20 07:36:33.236   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.199997 3.350000 95.000000 motion:0
+07-20 07:36:33.396   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 220.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.589996 3.330000 95.000000 motion:0
+07-20 07:36:33.556   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.500000 3.400000 95.000000 motion:0
+07-20 07:36:33.716   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 220.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.620003 3.420000 95.000000 motion:0
+07-20 07:36:33.876   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 220.000000 4.000000 220.000000 80.000000 id:15.000000 angle:83.440002 3.560000 95.000000 motion:0
+07-20 07:36:34.036   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 219.000000 4.000000 220.000000 79.000000 id:15.000000 angle:83.349998 3.280000 95.000000 motion:0
+07-20 07:36:34.163  3070  4227 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:34.190  1683  6026 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:34.191  1683  6026 I chatty  : uid=1000(system) Binder:1683_1C identical 2 lines
+07-20 07:36:34.191  1683  6026 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:34.193  3070  4226 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:34.195  3070  4227 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:34.196   904   953 E _V_HfLooper: als_data lux_r_g_b_c:1.000000 220.000000 4.000000 220.000000 80.000000 id:15.000000 angle:83.349998 3.450000 95.000000 motion:0
+07-20 07:36:34.199  3070  4226 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:34.205  3070  4226 E LocationAccessPolicy: canAccessCellLocation in whitList. uid = 10062, pkgName = com.amap.android.location
+07-20 07:36:34.225   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:34.225   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41351
+07-20 07:36:34.225   587   609 I libPowerHal: [PE] scn:256 hdl:41351 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:34.226   587   609 I libPowerHal: vperf@1.0-servi: cpu_ctrl set cpu freq: 2000000 -1 2400000 -1
+07-20 07:36:34.227   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:34.227   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41352
+07-20 07:36:34.227   587   609 I libPowerHal: [PE] scn:258 hdl:41352 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:34.231   587   609 I mtkpower@impl: [powerd_req] POWER_MSG_CUS_LOCK_HINT: hint:160, duration:500, pid:625
+07-20 07:36:34.232   587   609 I libPowerHal: perfLockAcq hdl:0 pid:625 duration:500 pid_exist:1 => new_hdl:41353
+07-20 07:36:34.232   587   609 I libPowerHal: [PE] scn:259 hdl:41353 lock_user:vperf@1.0-servi pid:625 tid:0
+07-20 07:36:34.233  1683  3936 E InputDispatcher: Window handle Window{9b7f0d6 u0 com.bbk.updater} has no registered input channel
+07-20 07:36:34.249  1683  6016 E InputDispatcher: Window handle Window{9b7f0d6 u0 com.bbk.updater} has no registered input channel
+07-20 07:36:34.258 26033 26072 E _V_Updater/receiver/UpdateReceiver: updater file = /data/vivo-updater/com.bbk.updater/OTAPackage/c9ebe36d54c0267ae6b602d64b75eb54.zip
+07-20 07:36:34.263 26033 32479 E _V_SecurityKey: com.bbk.updater: check collect data permisson: PERMISSION_DENIED
