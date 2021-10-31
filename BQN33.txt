@@ -1,0 +1,9 @@
+curl -o /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo && yum clean all && yum makecache
+
+yum -y install wget && cd /etc/yum.repos.d && mkdir ./bak && mv *.repo ./bak && wget -O CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo && yum clean all && yum makecache && ls
+
+下载epel源
+
+yum -y install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+
+yum repolist
